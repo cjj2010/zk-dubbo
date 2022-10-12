@@ -7,7 +7,7 @@
 Open terminal input command：
 docker-compose -f zkdubbo.yml up -d
 ## Step 2
-execute mvn clean install to build order-service and stock-service
+Execute mvn clean install to build order-service and stock-service
 ## Step 3
 Start these projects
 
