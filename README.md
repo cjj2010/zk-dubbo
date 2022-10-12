@@ -6,6 +6,9 @@
  ## Step 1
 Open terminal input command：
 docker-compose -f zkdubbo.yml up -d
+Then
+you can visit 'yourIP:9600' ,your will see the dubbo-admin login interface.
+Account/password：root/root
 ## Step 2
 Execute mvn clean install to build order-service and stock-service
 ## Step 3
